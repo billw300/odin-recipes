@@ -1,2 +1,10 @@
-h1 {background-color: rgb(178, 178, 228); text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 48px;}
-h2 {font-family: 'Times New Roman', Times, serif; font-size: 32px; color: navy;}
+h1 {background-color: rgb(178, 178, 228); text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 48px;
+    margin: 8px;
+    padding: 8px;
+}
+img {margin-left: 100px
+}
+h2 {font-family: 'Times New Roman', Times, serif; font-size: 32px; color: navy; 
+background-color: burlywood; margin: 15px; padding: 8px; width: 180px
+}
+li {margin: 15px; padding: 10px; background-color: beige; width: 330px;}
